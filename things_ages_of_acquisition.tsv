@@ -1,0 +1,1855 @@
+Word	Lowest_AoA	Highest_AoA	All_Synonyms_Had_AoAs
+aardvark	8.5	9.89	False
+abacus	8.69	8.69	True
+accordion	8.61	11.38	False
+acorn	5.95	5.95	True
+air conditioner	nan	nan	False
+air mattress	9.37	9.37	True
+air pump	nan	nan	False
+airbag	12.26	12.26	True
+airboat	10.75	10.75	True
+aircraft carrier	8.26	9.29	False
+airplane	3.94	4.95	False
+album	6.72	6.72	True
+alligator	4.78	7.61	True
+almond	7.67	7.67	True
+aloe	8.95	8.95	True
+alpaca	10.81	10.81	False
+altar	7.16	7.16	True
+aluminum foil	7.84	7.84	False
+amber	9.28	9.28	True
+ambulance	6.16	6.16	True
+amplifier	11.35	11.35	True
+anchor	5.72	5.72	False
+ankle	4.89	4.89	False
+anklet	9.06	9.06	False
+ant	4.32	16.43	False
+anteater	8.5	8.5	False
+antelope	8.39	8.39	True
+antenna	7.05	11.5	False
+anvil	10.79	10.79	True
+appetizer	7.35	9.06	False
+apple	4.15	4.15	True
+apple tree	nan	nan	False
+applesauce	4.32	4.32	True
+apron	6.75	6.75	True
+aquarium	5.94	6.84	False
+arch	8.26	8.26	True
+arm	3.26	3.26	True
+armor	7.17	7.17	False
+arrow	6.07	6.07	True
+artichoke	10.0	10.0	False
+arugula	5.63	16.75	False
+ashtray	5.95	5.95	True
+asparagus	6.79	6.79	True
+avocado	9.29	9.29	False
+awning	11.06	11.06	False
+axe	6.11	6.32	True
+baby	3.84	6.61	True
+backdrop	8.67	9.78	False
+backgammon	10.0	10.0	True
+backpack	5.38	14.3	False
+backscratcher	6.63	6.63	True
+bacon	5.0	5.0	True
+badge	6.11	6.11	True
+badger	8.74	8.74	True
+bag	4.28	4.28	True
+bagel	8.9	8.9	False
+bagpipe	9.33	9.33	True
+baklava	15.69	15.69	True
+balance beam	8.78	8.78	False
+ball	2.9	2.9	True
+balloon	4.37	4.37	True
+ballot box	nan	nan	False
+bamboo	9.28	9.28	True
+banana	3.78	3.78	True
+banana peel	nan	nan	False
+banana split	nan	nan	False
+bandage	5.94	7.28	True
+bandanna	8.59	8.59	False
+banjo	8.44	8.44	True
+bank	6.44	6.44	False
+banner	7.11	9.17	True
+barbed wire	7.21	8.4	True
+barbell	11.17	11.17	True
+barcode	nan	nan	False
+bark	5.17	5.17	True
+barnacle	11.6	11.6	False
+barrel	4.63	7.72	True
+barrette	6.71	6.71	True
+baseball	4.83	4.83	True
+baseball bat	7.33	7.33	False
+baseball glove	4.3	6.83	False
+basil	10.13	10.13	True
+basket	5.67	5.67	False
+basketball	5.3	5.3	True
+basketball hoop	5.67	6.11	False
+bassinet	9.18	9.18	True
+bassoon	10.38	10.38	True
+bat	4.85	4.85	False
+bat	4.85	4.85	True
+bathmat	5.83	5.83	True
+bathrobe	7.9	7.9	True
+bathtub	3.22	3.95	False
+baton	6.39	7.94	True
+baton	7.94	15.11	False
+baton	7.94	7.94	True
+baton	7.94	7.94	True
+batter	7.05	7.05	True
+battery	5.58	5.58	False
+bazooka	10.53	10.53	True
+beachball	4.95	4.95	True
+bead	5.63	5.63	True
+beaker	11.25	11.25	True
+bean	3.42	3.42	True
+beanbag	6.11	6.11	True
+beanie	10.72	10.72	False
+bear	3.58	3.58	True
+beard	4.84	5.11	False
+beaver	5.21	5.21	True
+bed	2.89	2.89	True
+bedpan	11.18	11.18	True
+bedpost	6.62	6.62	True
+bee	5.0	5.0	True
+beehive	6.89	7.47	True
+beer	6.11	6.11	True
+beet	6.56	10.69	True
+beetle	5.32	5.32	True
+bell	3.89	3.89	True
+bell pepper	nan	nan	False
+belt	4.62	4.62	True
+belt buckle	nan	nan	False
+bench	4.21	4.21	True
+berry	5.21	5.21	True
+bib	4.53	4.53	True
+bike	4.26	7.5	True
+bikini	8.26	8.26	False
+bin	4.68	4.68	True
+binder	10.42	10.42	False
+binoculars	6.79	6.79	False
+bird	3.52	3.52	True
+birdbath	5.95	5.95	True
+birdcage	5.63	5.63	True
+birdhouse	5.43	5.43	True
+birthday cake	nan	nan	False
+biscuit	4.63	4.63	True
+bison	8.11	8.11	True
+blackberry	8.95	8.95	True
+blanket	3.61	5.42	True
+blazer	9.6	9.6	False
+blender	6.84	6.84	False
+blimp	6.05	6.63	False
+blind	5.84	7.0	True
+blinder	8.42	8.89	False
+blindfold	8.11	8.11	True
+block	4.79	4.79	True
+blouse	6.65	6.65	True
+blower	8.32	8.32	True
+blowfish	9.19	10.88	False
+blowgun	10.89	11.82	False
+blowtorch	7.84	9.94	False
+blueberry	6.22	6.22	True
+boa	9.56	9.56	False
+boar	9.83	9.83	False
+board	6.37	6.37	True
+board game	nan	nan	False
+boat	3.84	3.84	True
+bobsled	6.16	9.38	True
+bok choy	nan	nan	False
+bolo tie	12.67	12.67	False
+bologna	nan	nan	False
+bolt	7.28	7.28	True
+bomb	8.0	8.0	True
+bone	5.53	5.53	False
+bongo	8.4	8.4	False
+bonnet	6.83	6.83	False
+bonsai	11.22	11.22	True
+book	3.68	3.68	True
+bookmark	6.75	8.26	True
+bookshelf	7.68	7.68	True
+boomerang	9.79	9.79	False
+boot	3.89	3.89	True
+bottle	3.56	3.56	True
+bottle opener	nan	nan	False
+boulder	7.92	7.92	False
+bouquet	8.56	16.8	True
+bow	4.95	4.95	False
+bow	4.95	4.95	True
+bow	4.95	4.95	True
+bowl	4.26	4.26	True
+bowler hat	10.45	10.58	False
+bowling ball	4.26	4.26	False
+bowtie	7.94	7.94	True
+box	4.3	4.3	True
+boxer shorts	3.95	6.05	False
+boxing gloves	4.3	7.83	True
+boy	3.67	3.67	False
+bra	8.21	11.0	False
+brace	7.89	7.89	True
+bracelet	5.68	8.0	False
+bracelet	5.68	8.65	True
+bracket	8.56	8.56	False
+braid	6.46	13.0	True
+brake	5.95	5.95	True
+branch	5.11	5.11	True
+brass knuckles	5.35	5.35	False
+bread	3.58	3.58	False
+breadbox	6.8	9.67	True
+breadstick	nan	nan	False
+breakfast	3.47	3.47	True
+breathalyzer	14.85	14.85	False
+brick	6.43	6.43	True
+briefcase	6.37	6.37	True
+broccoli	5.2	5.2	False
+brooch	10.71	10.72	False
+broom	5.5	5.5	True
+brownie	4.8	4.8	True
+brush	3.78	3.78	True
+brussels sprouts	nan	nan	False
+bubble	3.79	3.79	True
+bubble wrap	nan	nan	False
+bucket	5.61	6.16	True
+buckle	6.42	6.42	True
+buffet	7.58	7.58	True
+bug	3.79	3.79	True
+buggy	6.95	6.95	True
+bull	4.53	4.53	True
+bulldozer	5.61	9.06	True
+bullet	6.0	6.7	True
+bulletin board	nan	nan	False
+bulletproof vest	nan	nan	False
+bumper	7.32	7.32	True
+bun	5.79	5.79	True
+bungee	11.16	11.16	False
+bunkbed	5.62	6.48	True
+buoy	9.76	9.76	True
+burner	8.0	8.0	True
+burrito	9.37	9.37	True
+bus	3.85	14.8	False
+bush	4.9	8.06	True
+butter	5.78	5.78	True
+butterfly	3.67	3.67	True
+button	4.78	4.78	True
+button	4.26	8.5	True
+cabbage	5.78	5.78	False
+cabinet	6.06	6.06	True
+cable	4.85	9.2	False
+cactus	6.72	6.72	True
+cage	5.06	8.25	True
+cake	3.26	3.26	True
+cake mix	nan	nan	False
+calamari	7.32	13.16	False
+calculator	8.22	8.22	False
+calf	6.63	6.63	True
+calf	6.63	6.63	False
+calzone	12.72	12.72	False
+camcorder	11.65	11.65	True
+camel	5.11	5.11	True
+camera lens	nan	nan	False
+camera	6.0	6.0	False
+camera	6.0	6.0	False
+camper	6.67	6.67	False
+can	4.32	6.79	False
+can opener	6.96	6.96	False
+candelabra	12.18	12.18	False
+candle	5.37	10.7	False
+candlestick	5.61	7.78	True
+candy	4.0	4.0	False
+candy bar	nan	nan	False
+candy cane	nan	nan	False
+cane	5.74	5.74	True
+canister	6.79	8.83	False
+cannon	7.9	7.9	True
+cannonball	6.39	6.39	False
+canoe	6.63	6.63	True
+cantaloupe	7.22	7.22	False
+canvas	8.15	11.33	True
+cap	5.53	5.53	True
+cape	6.9	9.17	True
+car	3.37	7.78	True
+car door	nan	nan	False
+car seat	nan	nan	False
+caramel	6.58	6.58	True
+card	6.2	6.2	True
+cardboard	5.4	5.4	False
+cardigan	10.11	10.11	True
+cardinal	7.94	8.0	False
+carousel	6.68	12.74	False
+carriage	5.84	15.4	True
+carrot	2.74	2.74	True
+cart	6.16	6.16	True
+cash machine	nan	nan	False
+cash register	8.63	8.63	False
+cashew	8.68	8.68	False
+casserole	7.32	7.32	True
+cassette	6.37	6.37	True
+cat	3.68	3.68	False
+catapult	10.56	17.0	False
+caterpillar	5.17	5.17	True
+catfish	6.61	6.61	False
+cauliflower	6.18	6.18	True
+caviar	12.83	12.83	False
+cd player	nan	nan	False
+celery	5.78	5.78	True
+cello	9.89	12.6	True
+cellphone	10.0	14.67	False
+cement mixer	nan	nan	False
+centerpiece	8.89	8.89	False
+centrifuge	9.33	15.17	True
+cereal	4.44	4.44	True
+chain	5.22	5.22	True
+chainsaw	7.0	7.0	True
+chair	3.43	3.43	True
+chalice	11.35	11.44	True
+chalk	4.47	4.47	True
+chalkboard	5.42	5.78	True
+champagne	8.17	10.26	True
+chandelier	8.63	10.3	False
+chaps	10.0	10.0	True
+charcoal	8.0	8.0	False
+charger	10.63	10.63	False
+chariot	9.11	9.11	True
+checkbook	8.67	8.67	False
+checkers	6.11	6.11	False
+cheese	4.33	4.33	True
+cheeseburger	4.78	4.78	True
+cheesecake	8.11	8.11	True
+cheetah	8.16	8.16	False
+cherry	5.58	5.58	True
+chess piece	10.79	10.79	False
+chessboard	8.37	8.37	True
+chest	5.05	6.6	True
+chest	5.05	5.05	True
+chick	5.53	12.08	True
+chicken wire	nan	nan	False
+chicken	3.26	3.26	False
+chicken	3.26	3.26	False
+chickpea	12.93	12.93	False
+chihuahua	nan	nan	False
+chili	6.61	6.61	False
+chime	3.89	9.62	True
+chimney	6.58	6.58	True
+chin	4.22	4.22	False
+chinaware	10.05	10.05	False
+chinchilla	12.67	12.67	False
+chip	5.89	14.0	False
+chipmunk	4.7	4.7	True
+chips	5.89	7.22	False
+chisel	10.53	10.53	True
+chive	11.07	11.07	False
+chocolate	3.33	3.33	True
+chopsticks	8.5	8.5	True
+christmas card	nan	nan	False
+christmas tree	4.14	4.14	True
+chute	4.79	7.68	False
+cigar	7.67	7.67	True
+cigarette	3.73	9.72	False
+cigarette butt	nan	nan	False
+cigarette holder	nan	nan	False
+cilantro	12.27	13.88	False
+cinnamon	5.37	5.37	False
+clam	7.37	7.37	True
+clarinet	9.22	9.22	True
+clasp	8.63	8.63	True
+clay	5.32	5.32	True
+cleat	9.0	9.0	True
+cleaver	8.21	8.94	False
+clipboard	7.76	7.76	True
+clipper	9.56	9.56	True
+clipper	9.56	9.56	True
+cloak	6.95	6.95	True
+clock	4.42	4.42	True
+closet	5.0	7.84	True
+clothes	3.11	10.8	False
+clothesline	6.67	6.67	True
+clothespin	7.83	7.83	False
+cloud	3.63	3.63	True
+clove	10.88	10.88	True
+clover	5.74	5.74	False
+coal	6.65	6.65	True
+coaster	7.89	7.89	True
+coat	3.58	3.58	True
+coat rack	nan	nan	False
+cobra	7.47	7.47	True
+cockatoo	9.44	9.44	True
+cockroach	6.25	7.15	True
+cocktail	9.53	9.53	True
+coconut	6.5	6.5	False
+cocoon	8.95	8.95	True
+coffee	4.94	12.63	True
+coffee bean	4.94	4.94	False
+coffee filter	nan	nan	False
+coffee pot	5.53	5.53	True
+coffee table	nan	nan	False
+coffeemaker	7.78	7.78	True
+coffin	7.79	8.26	True
+coil	9.67	9.67	True
+coin	4.17	4.17	True
+coleslaw	6.72	8.28	True
+collar	6.56	6.56	True
+column	7.56	8.26	True
+comb	5.5	5.5	True
+combination lock	nan	nan	False
+comic book	nan	nan	False
+compass	8.44	8.44	True
+compost	9.72	9.72	True
+computer	9.7	9.7	False
+computer screen	nan	nan	False
+confetti	7.39	7.39	True
+contact lens	7.78	7.78	False
+container	6.5	6.5	True
+cooker	6.95	6.95	True
+cookie	3.37	4.63	False
+cookie cutter	nan	nan	False
+cookie sheet	nan	nan	False
+cooler	6.11	6.11	False
+coop	8.25	8.62	False
+copier	8.17	9.68	True
+coral	9.06	9.06	True
+cord	6.0	6.0	False
+cordon bleu	nan	nan	False
+cork	9.05	9.05	False
+corkboard	8.44	8.44	True
+corkscrew	7.78	7.78	False
+corn	4.61	9.59	False
+cornbread	6.4	6.4	True
+cornhusk	nan	nan	False
+cornmeal	6.84	6.84	False
+cornucopia	9.26	9.26	False
+corsage	11.47	11.47	True
+corset	10.22	10.67	False
+costume	4.17	4.17	True
+cot	7.53	7.53	False
+cotton candy	nan	nan	False
+couch	3.74	9.53	True
+cougar	5.6	14.0	False
+counter	7.11	7.11	True
+coverall	9.32	9.32	True
+cow	3.94	3.94	False
+coyote	6.68	6.68	False
+crab	5.28	5.28	True
+cracker	4.9	4.9	True
+cranberry	6.45	6.45	True
+crane	6.78	6.78	True
+crank	7.35	11.25	True
+crate	7.06	7.06	True
+crayfish	8.74	10.73	False
+crayon	3.2	3.2	False
+cream	5.95	5.95	True
+cream cheese	nan	nan	False
+credit card	5.11	9.73	False
+creme brulee	nan	nan	False
+crepe	10.67	10.89	False
+crib	6.05	7.53	True
+croissant	10.15	10.15	False
+cross	4.74	4.74	True
+crossbow	10.67	10.67	True
+crouton	8.17	8.17	True
+crow	5.74	5.74	True
+crowbar	8.06	8.72	False
+crown	7.8	16.56	True
+crucifix	9.05	12.33	False
+cruise ship	nan	nan	False
+crumb	5.89	5.89	True
+crutch	7.21	7.21	True
+crystal ball	nan	nan	False
+crystal	7.78	7.78	True
+crystal	7.78	12.0	True
+cuckoo clock	nan	nan	False
+cucumber	5.72	5.72	False
+cufflink	9.84	9.84	True
+cummerbund	13.0	13.0	True
+cup	3.57	3.57	True
+cupcake	4.11	4.11	True
+curb	6.81	6.81	False
+curling iron	nan	nan	False
+curry	13.28	13.28	True
+curtain	4.95	12.27	True
+cushion	5.53	5.53	True
+cutting board	nan	nan	False
+cymbal	9.94	9.94	True
+dagger	4.42	8.44	True
+daisy	5.55	5.55	True
+dalmatian	6.06	6.06	False
+dandelion	5.11	5.11	False
+dart	7.38	7.38	True
+dartboard	8.44	8.44	True
+dashboard	9.21	15.78	True
+deer	5.17	5.17	False
+defibrillator	15.1	15.1	True
+denture	3.84	10.16	False
+deodorant	8.83	8.83	False
+desk	5.56	5.56	True
+dessert	4.53	5.61	False
+detonator	5.53	10.63	False
+dial	6.68	6.68	False
+diamond	6.47	6.47	True
+diaper	3.4	8.44	True
+dice	4.53	6.37	True
+dip	7.0	7.0	True
+dirt bike	11.59	11.59	False
+dish	4.89	4.89	True
+dishrag	6.33	6.33	False
+dishwasher	7.16	7.16	False
+dishwashing liquid	nan	nan	False
+diskette	6.68	11.82	False
+diving board	nan	nan	False
+dog	2.8	2.8	False
+dogfood	nan	nan	False
+doghouse	6.74	9.89	True
+doily	nan	nan	False
+doll	3.68	3.68	False
+dollhouse	4.86	4.86	False
+dolly	nan	nan	False
+dolphin	6.05	6.05	True
+domino	6.17	6.17	True
+donkey	6.0	6.0	False
+donut	5.42	6.9	False
+door	3.05	3.05	True
+doorbell	3.89	5.72	True
+doorhandle	nan	nan	False
+doorknob	4.7	4.7	False
+doorknocker	7.06	10.74	True
+doormat	7.21	7.21	False
+doorstop	6.61	6.61	False
+dough	6.63	6.63	True
+dragonfly	6.8	6.8	False
+drain	6.26	9.11	False
+drawer	5.37	5.37	True
+dreidel	nan	nan	False
+dress	4.05	9.65	True
+dresser	4.28	11.95	False
+drill	7.14	7.14	True
+drink	3.47	3.47	True
+drum	4.63	4.63	False
+drumstick	7.79	7.79	True
+dryer	6.16	6.16	False
+duck	3.5	3.5	True
+duckling	4.95	4.95	True
+duct	10.74	10.74	True
+duct tape	nan	nan	False
+duffel bag	10.11	10.11	False
+dumbbell	7.56	7.56	True
+dumbwaiter	11.47	11.47	False
+dumpling	8.5	8.5	False
+dumpster	9.06	9.06	True
+duster	8.11	8.11	False
+dustpan	6.47	6.47	True
+dynamite	7.11	7.11	True
+eagle	5.83	5.83	False
+ear	3.63	3.63	True
+earplug	7.58	7.58	True
+earring	7.17	7.17	True
+earwig	10.71	10.71	True
+easel	7.0	7.0	True
+easter egg	nan	nan	False
+eclair	10.76	10.76	True
+eel	6.47	6.47	True
+egg	3.89	3.89	False
+egg roll	8.47	8.47	False
+eggbeater	9.05	9.05	False
+eggnog	7.45	7.45	True
+eggplant	8.3	8.3	False
+eggshell	5.22	7.11	True
+elbow	4.78	4.78	False
+electric chair	3.43	3.43	False
+elephant	4.8	4.8	True
+emerald	8.26	8.26	True
+enchilada	11.28	11.28	True
+engine	6.28	6.28	True
+envelope	6.25	6.25	True
+eraser	4.95	4.95	True
+espresso	13.26	13.26	True
+exerciser	9.81	9.81	False
+exhaust pipe	nan	nan	False
+extinguisher	7.35	7.35	False
+eye	3.75	11.0	False
+eye patch	7.28	7.28	False
+eyedropper	6.61	8.56	True
+eyeliner	10.63	10.63	True
+eyepiece	9.0	13.28	True
+face	3.75	3.75	False
+face mask	nan	nan	False
+fan	5.63	5.63	True
+fast food	nan	nan	False
+faucet	6.29	9.5	True
+feather	4.67	12.94	True
+fence	6.28	10.94	True
+fencepost	nan	nan	False
+fern	8.67	8.67	True
+ferret	8.47	8.47	True
+ferris wheel	nan	nan	False
+ferry	8.0	8.63	True
+fig	8.06	8.06	True
+figurine	9.0	13.62	True
+file	8.21	8.21	True
+file	8.21	8.21	True
+filing cabinet	8.21	8.21	False
+film	6.95	6.95	False
+filter	8.05	8.05	True
+finger	3.43	3.43	True
+fingerprint	7.56	7.56	True
+fire	3.25	3.25	True
+fire alarm	nan	nan	False
+fire hydrant	5.36	8.73	True
+fire pit	7.37	7.37	False
+firecracker	4.9	11.07	True
+fireplace	7.37	10.05	False
+firetruck	3.69	3.69	False
+firewood	6.61	6.61	True
+fireworks	4.95	12.93	True
+first-aid kit	nan	nan	False
+fish	4.05	4.05	True
+fishbowl	5.47	5.47	False
+fishhook	6.84	6.84	True
+fishing pole	6.18	7.64	True
+fishnet stockings	nan	nan	False
+flag	5.33	5.33	True
+flagpole	6.44	11.33	True
+flamethrower	8.89	8.89	True
+flamingo	6.32	6.32	True
+flan	12.65	12.65	True
+flashbulb	7.42	14.42	False
+flashlight	5.61	7.84	True
+flask	10.78	10.78	True
+flatiron	11.67	11.67	False
+flip-flop	12.41	12.41	False
+flipper	7.3	8.58	True
+float	5.39	5.39	True
+floss	7.06	7.06	False
+flour	6.89	6.89	True
+flower	3.11	3.11	True
+flute	8.47	8.47	False
+fly	3.05	3.05	True
+flypaper	9.48	9.48	True
+flyswatter	5.79	11.43	False
+foam	6.15	6.15	True
+folder	8.21	8.21	True
+fondue	9.21	10.78	True
+food processor	nan	nan	False
+foot	3.44	3.44	False
+football	4.84	4.84	True
+football helmet	nan	nan	False
+footbath	8.53	8.53	True
+footprint	4.11	10.47	True
+footrest	6.55	6.55	True
+fork	3.63	3.63	True
+forklift	9.11	9.11	True
+fossil	7.5	7.5	True
+fountain pen	nan	nan	False
+fox	5.02	5.02	True
+frame	7.67	7.67	False
+freezer	4.63	4.63	False
+french fries	nan	nan	False
+french horn	4.84	4.84	False
+frisbee	5.5	5.5	True
+frog	4.32	6.11	False
+fruit	3.63	3.63	True
+fruitcake	8.28	8.28	True
+fudge	5.78	5.78	True
+fungus	8.44	8.44	True
+funnel	8.44	8.44	True
+fur coat	nan	nan	False
+furnace	10.6	10.6	True
+fuse	10.78	10.78	False
+gallows	11.24	11.24	True
+game	4.26	4.26	True
+garbage	4.89	4.89	True
+garbage truck	nan	nan	False
+gargoyle	10.18	10.18	True
+garlic	6.89	9.71	True
+garter	8.75	11.72	True
+gas mask	10.11	10.47	False
+gasket	10.9	10.9	True
+gate	5.32	5.32	True
+gauge	10.83	10.83	False
+gauze	9.32	9.32	False
+gavel	9.22	9.22	True
+gazelle	9.37	9.37	True
+gear	7.61	12.15	False
+gearshift	10.89	11.06	False
+gel	7.21	7.21	False
+gem	4.44	7.94	True
+generator	11.11	11.11	True
+gift	5.05	5.05	True
+ginger	8.05	13.53	True
+gingerbread man	nan	nan	False
+giraffe	5.0	5.0	False
+girl	4.0	4.0	False
+glass	4.47	4.47	False
+glasses	4.35	12.94	False
+globe	6.5	6.5	True
+glove	4.3	4.3	True
+glue	4.67	14.22	True
+go-kart	8.81	8.81	True
+goalpost	9.83	9.83	True
+goat	5.21	5.21	False
+goblet	11.44	11.44	True
+goggles	7.05	7.05	True
+gold	7.1	7.1	False
+goldfish	4.5	4.5	False
+golf cart	nan	nan	False
+golf club	5.89	5.89	False
+gondola	10.21	10.21	True
+gong	9.62	9.62	False
+goose	5.15	5.15	True
+gopher	7.21	7.21	False
+gorilla	5.74	5.74	False
+gourd	10.65	10.65	True
+graffiti	9.47	14.55	True
+grain	7.44	7.44	False
+gramophone	12.25	12.25	False
+granite	12.24	12.24	True
+granola	9.94	9.94	True
+grape	3.94	3.94	True
+grapefruit	6.9	6.9	True
+grapevine	3.94	7.37	True
+grass	3.94	3.94	True
+grasshopper	5.78	5.78	False
+grate	8.9	10.71	True
+grater	8.88	8.88	True
+gravel	7.19	7.19	False
+gravestone	7.37	9.44	True
+gravy	6.0	6.0	True
+green beans	nan	nan	False
+grenade	9.72	9.72	True
+grill	6.53	13.19	False
+grille	nan	nan	False
+grinder	8.17	8.68	False
+grits	8.95	8.95	False
+groundhog	6.0	8.26	False
+guacamole	9.68	9.68	True
+guardrail	9.35	9.35	False
+guillotine	11.75	11.75	True
+guinea pig	nan	nan	False
+guitar	5.32	5.32	True
+gum	4.89	4.89	False
+gumball	5.32	5.32	True
+gumdrop	5.53	5.53	True
+gun	5.58	5.58	True
+gurney	11.47	11.47	True
+gutter	7.79	8.41	True
+gyro	11.71	11.71	True
+gyroscope	11.71	12.69	True
+hail	7.9	7.9	True
+hair	3.17	3.17	True
+hairbrush	4.7	4.7	True
+hairdryer	6.06	6.06	False
+hairnet	8.7	8.7	True
+hairpin	8.17	8.17	True
+hairspray	7.84	7.84	True
+ham	4.1	14.5	False
+hamburger	5.17	5.21	False
+hammer	5.42	5.42	True
+hammock	5.83	7.11	True
+hamster	4.37	4.37	True
+hand	2.74	6.83	False
+handbrake	5.94	8.05	False
+handcuff	6.28	12.5	False
+handkerchief	7.22	8.71	False
+handle	4.67	6.7	False
+handlebar	6.26	6.26	True
+handprint	5.11	5.11	True
+hanger	6.78	6.78	True
+hard disk	nan	nan	False
+harmonica	7.32	7.55	False
+harness	7.83	7.83	True
+harp	7.55	7.55	True
+hash	12.74	12.74	True
+hat	3.33	14.92	True
+hatbox	10.16	10.16	True
+hatchet	8.2	8.2	True
+hawk	6.74	6.74	True
+hay	5.32	5.32	True
+headband	6.33	6.33	True
+headdress	9.06	10.78	True
+headlamp	nan	nan	False
+headlight	6.79	6.79	False
+headphones	4.11	10.28	True
+headrest	7.68	7.68	False
+headscarf	nan	nan	False
+headset	9.05	9.05	True
+hearing aid	nan	nan	False
+hearse	9.89	9.89	True
+heater	6.1	6.1	False
+hedge	8.9	9.91	True
+hedgehog	8.63	8.63	False
+helicopter	5.26	12.36	True
+helmet	5.71	5.71	True
+highchair	3.79	3.79	False
+highlighter	8.24	8.24	True
+hinge	7.95	7.95	False
+hip	6.17	6.17	True
+hippopotamus	5.79	7.0	False
+hobbyhorse	8.35	8.35	False
+hockey stick	nan	nan	False
+hoe	8.72	8.72	True
+hole	5.05	5.05	True
+holster	10.32	10.32	True
+home plate	3.84	3.87	False
+honey	5.44	5.44	True
+honeycomb	7.11	7.11	True
+honeypot	nan	nan	False
+hood	5.5	5.5	True
+hoodie	nan	nan	False
+hook	6.26	6.26	True
+hook	6.26	6.26	True
+hookah	15.13	15.13	False
+hopscotch	5.8	5.8	True
+horn	4.84	4.84	True
+horse	4.15	4.15	False
+horseshoe	2.6	5.85	True
+hose	5.33	5.33	False
+hot chocolate	3.33	6.84	False
+hot tub	nan	nan	False
+hot-air balloon	nan	nan	False
+hot-water bottle	nan	nan	False
+hotdog	4.55	4.55	False
+hotplate	12.21	12.21	True
+hourglass	8.58	8.58	True
+hovercraft	9.28	9.28	False
+hubcap	8.39	8.39	True
+hula hoop	nan	nan	False
+hummingbird	6.95	6.95	True
+hummus	14.84	14.84	False
+humvee	nan	nan	False
+hydrant	6.89	6.89	True
+hyena	6.61	6.61	False
+ice	3.86	3.86	False
+ice cream	3.33	3.33	True
+ice cube	nan	nan	False
+ice pack	6.89	6.89	False
+ice-cream cone	nan	nan	False
+icemaker	nan	nan	False
+icepick	9.0	9.0	True
+iceskate	7.97	7.97	True
+icicle	5.78	5.78	True
+iguana	7.61	7.61	False
+incense	10.45	10.45	True
+incubator	10.0	11.71	True
+inhaler	10.26	14.06	True
+ink	5.16	5.16	True
+inkwell	10.85	11.76	True
+insole	12.21	12.21	False
+iron	7.32	7.32	False
+ironing board	6.58	6.58	True
+ivy	nan	nan	False
+jack	6.96	6.96	True
+jacket	3.95	3.95	True
+jackhammer	8.1	8.1	False
+jalapeno	11.33	11.33	False
+jam	6.56	6.56	True
+jar	5.44	5.44	True
+javelin	9.44	9.44	True
+jeans	6.12	8.22	False
+jeep	6.32	6.32	False
+jelly bean	5.63	5.63	False
+jellyfish	6.61	6.61	True
+jersey	8.96	8.96	True
+jet	5.39	5.39	False
+jetski	nan	nan	False
+jewel	6.22	7.68	False
+jewelry	6.67	6.67	False
+jigsaw puzzle	nan	nan	False
+joystick	9.29	9.29	True
+jug	5.83	5.83	True
+juice	4.4	4.4	True
+juicer	11.26	13.5	False
+juicer	11.26	11.26	True
+jukebox	7.42	8.78	True
+jump rope	5.8	5.8	False
+jumpsuit	9.53	9.53	True
+kale	12.12	12.12	False
+kaleidoscope	7.41	7.41	True
+kangaroo	5.55	5.55	True
+kayak	8.8	8.8	True
+kazoo	6.25	6.25	True
+kebab	10.44	10.44	False
+keg	13.41	13.41	True
+ketchup	4.3	6.65	False
+kettle	8.06	8.89	True
+key	3.58	3.58	True
+keyboard	9.32	9.32	True
+keyhole	7.86	7.86	True
+kilt	8.21	8.21	True
+kimono	11.37	11.37	True
+kite	4.58	4.58	True
+kitten	3.54	3.64	True
+kiwi	7.56	7.56	False
+knee	4.42	13.18	False
+kneepad	8.06	8.06	True
+knife	4.15	4.15	True
+knitting	7.24	7.86	False
+knitting needle	nan	nan	False
+knob	4.68	4.68	True
+knot	6.05	6.05	True
+koala	6.0	6.0	False
+lab coat	nan	nan	False
+ladder	4.4	4.4	True
+ladle	9.83	9.83	True
+ladybug	4.84	10.53	False
+lamb	4.15	4.15	True
+lamb chop	nan	nan	False
+lamp	4.0	4.0	True
+lamppost	8.39	8.39	True
+lampshade	5.63	5.63	True
+landmine	10.95	10.95	False
+lantern	8.55	8.55	True
+lanyard	12.14	12.14	False
+laptop	12.44	12.44	False
+lasagna	5.0	5.0	False
+laser pointer	7.7	7.7	False
+latch	8.0	8.0	True
+latte	13.47	13.47	False
+laundry basket	nan	nan	False
+lava	6.44	6.44	True
+lavender	9.11	9.11	True
+lawnmower	6.11	6.89	True
+leaf	4.6	12.6	True
+leash	5.79	10.67	True
+lectern	12.92	12.92	False
+leech	7.84	9.56	False
+leek	11.0	11.0	False
+leg	3.0	3.0	True
+leggings	nan	nan	False
+lego	nan	nan	False
+lemon	4.74	4.74	True
+lemonade	5.06	5.06	True
+lens	9.53	9.53	False
+leopard	6.84	6.84	False
+leotard	nan	nan	False
+letter opener	nan	nan	False
+lettuce	4.28	4.28	True
+license plate	nan	nan	False
+licorice	5.79	5.79	False
+lid	5.95	5.95	True
+life jacket	7.93	7.93	False
+lifesaver	7.3	11.75	False
+light switch	4.78	5.94	True
+lightbulb	5.89	6.56	False
+lighter	4.05	12.53	False
+lightning bug	6.39	6.39	False
+lime	6.61	6.61	True
+limousine	8.17	8.42	True
+lingerie	13.44	13.44	False
+lion	4.42	4.42	False
+lip balm	nan	nan	False
+lip gloss	9.9	9.9	False
+lipstick	5.42	5.42	False
+lizard	5.42	5.42	True
+llama	8.61	8.61	True
+lobster	7.44	7.44	True
+lock	5.74	5.74	True
+locker	6.06	8.22	False
+locket	8.35	8.35	True
+log	6.74	6.74	True
+loincloth	9.67	9.67	False
+lollipop	3.89	6.11	False
+loom	8.78	8.78	True
+loveseat	8.5	8.5	False
+luggage	7.52	7.63	True
+lumber	6.47	7.33	True
+lunchbox	4.25	4.25	True
+macadamia	12.19	12.19	False
+macaroni	5.15	5.15	True
+machete	9.6	9.6	False
+machine gun	8.74	8.74	True
+maggot	9.5	9.5	True
+magnet	6.1	6.1	True
+magnifier	9.7	9.7	True
+magnifying glass	nan	nan	False
+mail	4.65	8.11	True
+mailbox	6.11	9.83	True
+makeup	7.44	7.44	False
+mallet	5.32	10.94	True
+man	3.11	3.11	False
+manatee	10.56	10.56	False
+mandolin	12.39	12.39	True
+mango	8.22	8.22	True
+manhole	6.83	6.83	True
+mannequin	7.58	9.24	False
+mantle	7.72	11.0	False
+map	5.6	5.6	True
+maple syrup	nan	nan	False
+marble	7.05	7.05	True
+margarita	12.6	12.6	True
+marijuana	10.89	14.15	False
+marker	4.89	4.89	True
+marmalade	10.39	10.39	True
+marshmallow	3.8	3.8	True
+mascara	9.21	9.21	True
+mashed potato	nan	nan	False
+mask	4.8	4.8	True
+mast	10.59	10.59	True
+mat	4.62	4.62	True
+match	5.72	5.72	False
+matchbox	6.52	6.52	True
+mattress	5.1	5.1	True
+measuring cup	nan	nan	False
+meat	4.42	4.42	True
+meat grinder	nan	nan	False
+meatball	6.0	6.0	True
+meatloaf	6.43	6.43	True
+medal	5.25	10.26	False
+meerkat	nan	nan	False
+megaphone	10.2	10.2	True
+melon	4.21	4.21	True
+memory stick	nan	nan	False
+metal detector	nan	nan	False
+metronome	11.06	11.06	True
+microphone	6.25	6.78	True
+microscope	9.16	9.16	True
+microwave	7.67	7.67	False
+milk	3.37	3.37	True
+milkshake	4.89	5.26	True
+minivan	7.5	7.5	True
+mint	5.94	5.94	True
+mirror	4.89	4.89	True
+missile	7.22	7.22	True
+mistletoe	9.65	9.65	False
+mitten	4.72	4.72	True
+mixer	7.05	7.05	True
+moccasin	11.22	11.22	False
+modem	13.75	13.75	True
+mold	7.24	11.33	True
+mold	9.26	11.33	True
+mole	7.33	7.33	True
+money	5.11	5.11	True
+mongoose	9.94	9.94	True
+monkey	4.21	4.21	True
+moose	5.22	7.05	False
+mop	5.11	8.94	False
+mosquito	6.1	6.1	True
+mosquito net	nan	nan	False
+moss	8.31	8.31	True
+moth	5.74	5.74	True
+motherboard	14.17	14.17	False
+motorcycle	4.79	5.05	True
+mouse	4.94	4.94	True
+mouse	4.94	4.94	False
+mousepad	nan	nan	False
+mousetrap	6.78	6.78	True
+mousse	10.32	10.32	True
+mouth	3.58	3.58	True
+mouthpiece	10.6	10.6	False
+mud	4.05	5.32	True
+muff	10.35	10.35	True
+muffin	5.11	7.68	True
+mug	5.15	5.15	True
+mulberry	8.88	8.88	True
+mulch	9.22	9.22	True
+mullet	11.67	11.67	True
+mushroom	6.44	6.44	True
+music box	nan	nan	False
+mussel	10.0	10.0	True
+mustache	5.4	5.4	False
+mustard	4.95	4.95	False
+nacho	6.86	6.86	True
+nail	5.42	5.42	True
+nail clippers	nan	nan	False
+nail file	8.45	8.45	True
+nail polish	nan	nan	False
+napkin	4.79	4.79	False
+napkin ring	nan	nan	False
+navel	3.78	15.1	False
+neck	3.0	14.67	True
+necklace	5.0	5.0	True
+needle	5.32	5.32	True
+nest	5.11	5.11	True
+net	7.0	10.94	False
+nightshirt	6.1	6.1	True
+nightstand	6.67	6.67	True
+noisemaker	8.21	8.21	True
+noodle	3.44	3.44	True
+noose	8.28	8.28	False
+nose	2.95	2.95	False
+notebook	6.37	6.37	True
+notepad	8.53	8.53	True
+nut	5.21	5.21	True
+nutcracker	7.24	7.24	True
+oar	5.83	5.83	True
+oatmeal	4.5	4.5	False
+octopus	6.26	13.21	True
+odometer	nan	nan	False
+oil	7.33	7.33	False
+oilcan	7.59	7.59	True
+okra	12.61	12.61	True
+olive	6.68	6.68	True
+omelet	6.5	6.5	False
+onion	6.05	6.05	True
+orange	3.26	3.26	True
+orange rind	nan	nan	False
+orangutan	7.83	7.83	False
+orchid	9.76	9.76	False
+organ	8.72	8.72	False
+origami	9.24	9.24	True
+ostrich	6.42	6.42	False
+otter	5.47	5.47	True
+ottoman	6.44	12.86	False
+outfit	6.72	10.95	True
+outlet	8.32	8.32	False
+oven	5.67	5.67	True
+overalls	8.28	8.28	True
+owl	6.21	13.12	False
+oyster	8.0	8.0	True
+pacifier	4.56	8.61	False
+paddle	6.58	6.58	False
+padlock	8.84	8.84	True
+paint	4.45	11.06	True
+paintbrush	6.22	6.22	True
+painting	4.05	5.26	True
+pajamas	4.27	4.27	False
+palette	10.5	12.0	True
+pallet	12.0	12.0	True
+palm tree	6.0	7.44	True
+pan	4.72	4.72	False
+pancake	4.26	8.5	False
+panda	5.67	5.67	False
+panther	6.67	6.67	True
+panties	6.26	13.67	False
+pants	5.94	7.22	True
+pantsuit	9.42	9.42	False
+pantyhose	6.06	6.06	True
+papaya	10.84	10.84	True
+paper	4.0	4.0	True
+paper bag	4.95	5.83	False
+paper plate	nan	nan	False
+paper towel	nan	nan	False
+paperclip	6.42	6.42	False
+paperweight	6.72	6.72	True
+parachute	7.0	7.68	True
+parfait	10.76	10.76	True
+parking meter	nan	nan	False
+parrot	5.58	5.58	True
+parsley	8.95	8.95	True
+pasta	5.78	5.78	False
+pastry	7.21	7.21	True
+patch	7.28	7.28	True
+patty	3.26	3.26	False
+payphone	7.11	7.11	True
+pea	3.95	3.95	True
+peach	4.21	4.21	True
+peacock	5.76	5.76	True
+peanut	5.0	5.0	True
+peanut butter	nan	nan	False
+pear	4.0	4.0	True
+pearl	6.28	6.28	True
+pecan	6.8	6.8	True
+pedal	6.5	6.5	False
+pedometer	14.06	14.06	True
+peeler	8.0	8.0	True
+peg	6.83	6.83	False
+pelican	8.22	8.22	True
+pen	5.11	5.11	True
+pencil	4.06	4.06	True
+pencil sharpener	5.31	5.31	True
+pendulum	11.75	11.75	True
+penguin	5.68	5.68	True
+penholder	9.95	9.95	True
+penlight	11.0	11.0	True
+pennant	11.47	11.47	True
+pepper mill	nan	nan	False
+pepper	5.47	11.42	True
+pepper	5.47	5.47	True
+peppermint	5.7	5.7	False
+pepperoni	6.21	6.21	True
+perfume	7.06	11.9	True
+periscope	10.16	10.16	True
+pesto	13.8	13.8	True
+pet food	nan	nan	False
+petal	6.33	6.33	False
+petri dish	nan	nan	False
+pheasant	9.68	9.68	True
+phone	4.11	4.63	False
+phone booth	nan	nan	False
+photo booth	nan	nan	False
+photograph	4.05	10.44	False
+piano	5.5	12.38	False
+pickax	5.26	9.79	False
+pickle	6.05	6.05	True
+pie	3.67	3.67	True
+piecrust	nan	nan	False
+pig	3.84	9.79	False
+pigeon	6.21	6.21	True
+piggy bank	5.51	5.51	False
+piglet	4.67	12.67	False
+pill	6.06	9.33	True
+pillbox	9.3	9.3	True
+pillow	3.47	3.47	True
+pin	4.53	4.53	True
+pinball	6.95	6.95	False
+pincushion	8.56	8.56	True
+pine needle	5.32	5.32	False
+pine tree	5.53	5.53	False
+pineapple	6.25	6.25	False
+pinecone	4.61	4.61	True
+ping-pong table	nan	nan	False
+pinwheel	7.63	7.63	False
+pipe	8.17	8.17	False
+pipe	8.17	9.95	False
+pistachio	8.74	8.74	False
+pita	12.0	12.0	False
+pitcher	6.42	6.42	False
+pitchfork	6.89	6.89	True
+pizza	4.67	4.67	False
+place mat	nan	nan	False
+plant	3.95	11.94	False
+plaster cast	7.24	7.24	False
+plastic film	6.95	6.95	False
+plate	3.84	3.84	True
+platypus	7.71	7.71	False
+playing card	nan	nan	False
+playpen	4.41	5.11	True
+pliers	7.0	7.0	False
+plug	6.05	6.05	False
+plum	5.5	5.5	True
+plunger	9.63	9.63	False
+pocket	4.74	4.74	True
+pocket watch	nan	nan	False
+pocketknife	5.94	5.94	True
+pogo stick	nan	nan	False
+poinsettia	8.89	8.89	False
+poker	6.89	9.1	False
+polar bear	nan	nan	False
+polaroid	nan	nan	False
+pole	5.63	5.63	True
+police car	10.26	10.26	False
+polisher	10.89	12.37	True
+polo shirt	nan	nan	False
+polygraph	13.33	13.33	True
+pom-pom	8.5	8.94	True
+pomegranate	11.17	11.17	True
+pony	5.39	5.39	True
+poodle	6.53	6.53	False
+pool table	7.65	7.65	False
+popcorn	4.17	4.17	True
+poppy	10.37	10.37	True
+popsicle	3.78	8.0	False
+porcupine	6.89	8.63	True
+porthole	10.12	10.12	True
+possum	6.61	8.76	True
+poster	8.12	8.12	True
+pot	5.95	5.95	True
+potato	4.84	9.05	False
+potholder	nan	nan	False
+pothole	8.42	8.42	False
+potpie	8.11	8.11	True
+potpourri	10.15	10.15	True
+powder	5.06	5.06	False
+power line	nan	nan	False
+praying mantis	nan	nan	False
+pretzel	5.0	5.0	True
+printer	7.61	7.61	False
+prism	9.78	9.78	False
+projector	7.16	7.16	True
+propeller	7.0	7.0	False
+prune	7.85	7.85	True
+puck	7.79	7.79	False
+pudding	4.79	4.79	True
+puddle	5.15	5.37	True
+puffin	9.23	9.23	True
+pug	9.17	9.17	False
+pulley	4.79	9.9	False
+pulpit	7.58	18.0	False
+pump	6.06	6.06	True
+pumpkin	4.78	4.78	True
+punch	5.75	5.75	True
+punch	5.75	7.56	True
+punching bag	7.92	7.92	False
+puppet	5.0	5.0	True
+puppy	3.28	3.28	True
+purse	5.53	5.53	True
+quad	12.58	12.58	False
+quesadilla	11.2	11.2	True
+quiche	13.13	13.13	True
+quill	9.04	9.04	False
+quilt	6.44	8.61	True
+rabbit	3.94	12.3	False
+raccoon	6.14	6.79	True
+racehorse	6.67	9.67	True
+rack	6.26	6.26	True
+rack	4.39	6.26	True
+racket	8.2	8.2	False
+radar	9.53	9.53	False
+radiator	8.53	8.53	True
+radio	5.17	14.05	False
+radish	5.25	5.25	True
+raft	7.35	7.35	True
+rag	5.0	9.28	False
+railing	6.56	7.89	True
+rain gauge	nan	nan	False
+raincoat	5.5	8.68	True
+raisin	5.05	5.05	True
+rake	5.32	5.32	True
+ram	8.32	8.32	False
+ramp	7.28	10.9	True
+raspberry	5.33	5.33	True
+rat	5.11	5.11	True
+ratchet	10.21	10.21	False
+rattle	4.5	4.5	True
+rattlesnake	6.78	7.06	True
+ravioli	6.58	6.58	False
+razor	7.11	7.11	True
+razor blade	7.59	7.59	True
+ready meal	nan	nan	False
+rearview mirror	nan	nan	False
+recliner	6.11	9.82	False
+record	6.3	10.0	False
+record player	6.37	9.18	True
+recorder	8.37	8.37	False
+red carpet	nan	nan	False
+reel	9.12	9.12	True
+refrigerator	4.11	7.11	True
+reindeer	3.58	12.06	False
+remote control	7.05	7.05	False
+retainer	11.5	11.5	True
+revolver	9.26	9.26	False
+revolving door	9.26	9.26	False
+rhinoceros	5.89	6.0	True
+rhubarb	10.53	10.53	False
+ribbon	5.25	5.25	True
+rice	3.72	3.72	True
+rickshaw	11.94	11.94	False
+rifle	7.85	7.85	True
+rim	8.05	8.05	True
+ring	4.53	6.16	True
+riser	10.56	10.56	True
+road sign	nan	nan	False
+roadsweeper	9.83	9.83	True
+robe	6.38	6.38	True
+robot	5.35	14.85	True
+rock	3.22	4.44	True
+rocket	5.63	5.63	False
+rocking chair	5.78	7.06	True
+rocking horse	7.44	8.35	False
+roll	4.47	5.79	True
+roller	6.65	6.65	True
+roller coaster	6.07	6.07	False
+rollerblade	10.8	10.8	True
+rollerskate	6.32	6.32	True
+rolling pin	7.6	7.6	True
+roof rack	nan	nan	False
+rooster	6.41	11.32	True
+root	5.94	5.94	True
+rope	5.44	5.44	True
+rosary	8.21	8.21	False
+rose	4.89	6.11	True
+roulette wheel	4.4	4.4	False
+router	12.68	12.68	True
+rubber band	8.85	8.85	False
+ruby	6.83	6.83	True
+rudder	10.39	10.39	True
+rug	4.61	6.37	True
+ruler	4.72	5.94	True
+rust	7.75	7.75	True
+saddle	6.42	6.42	True
+safety pin	6.53	6.53	True
+saffron	14.89	14.89	True
+sail	5.33	11.33	True
+sailboat	4.65	4.65	False
+salad	5.61	5.61	True
+salami	7.18	7.18	True
+saltshaker	5.42	5.42	True
+sand	4.63	4.63	True
+sandal	5.21	5.21	True
+sandbag	7.83	7.83	True
+sandbox	4.14	4.14	False
+sandcastle	5.42	5.42	True
+sandpaper	6.33	6.33	False
+sandwich	4.79	4.79	True
+sarcophagus	11.93	11.93	True
+sardine	7.74	15.0	True
+satellite	9.44	11.68	False
+satellite dish	4.89	8.44	False
+sauce	5.37	5.37	True
+saucer	8.44	8.44	True
+sauerkraut	9.26	9.26	True
+sausage	6.05	6.05	True
+saw	5.36	5.36	True
+sawhorse	4.15	12.56	True
+saxophone	8.75	9.1	True
+scaffold	12.11	12.11	True
+scaffolding	11.22	11.22	False
+scale	8.85	8.85	False
+scallion	nan	nan	False
+scallop	11.26	11.26	False
+scalpel	10.73	10.73	True
+scanner	11.37	11.37	False
+scarecrow	5.56	5.56	False
+scarf	5.68	5.68	True
+school bus	nan	nan	False
+scissors	4.5	4.5	False
+scone	10.26	10.26	True
+scoop	5.14	5.14	True
+scooter	6.68	6.68	True
+scoreboard	7.37	7.37	True
+scorpion	7.84	7.84	True
+scrabble	9.32	9.32	True
+scrambled egg	nan	nan	False
+scraper	8.18	8.18	True
+screen	5.84	5.84	False
+screen	5.84	5.84	True
+screw	6.65	6.65	True
+screwdriver	6.0	6.0	True
+scuba	7.6	14.79	True
+sea urchin	nan	nan	False
+seafood	6.86	6.86	True
+seagull	5.42	8.65	True
+seahorse	5.83	5.83	True
+seal	5.42	5.42	True
+seaplane	11.47	12.8	True
+seatbelt	6.47	6.47	True
+seaweed	6.74	6.74	True
+seed	4.72	4.72	True
+seesaw	4.81	7.25	False
+seismograph	10.65	10.65	True
+sequin	8.76	14.0	True
+sewage	8.47	10.85	True
+sewing kit	nan	nan	False
+sewing machine	5.71	5.71	True
+shaker	8.33	8.33	True
+shark	5.47	5.47	True
+shaving cream	nan	nan	False
+shawl	9.74	9.74	True
+shears	9.46	9.46	True
+sheath	10.93	10.93	True
+sheep	4.25	4.25	True
+sheet	5.33	5.33	False
+shelf	5.5	5.5	True
+shell	5.22	5.22	True
+shell	5.22	5.22	True
+shell	5.22	5.22	True
+shield	6.5	6.5	False
+ship	5.33	5.33	True
+shirt	3.53	3.53	True
+shoe	2.6	2.6	True
+shoe polish	nan	nan	False
+shoehorn	7.89	7.89	True
+shoelace	4.16	6.21	True
+shopping basket	nan	nan	False
+shopping cart	nan	nan	False
+shortbread	8.78	8.78	False
+shorts	3.95	3.95	False
+shoulder	4.5	4.5	True
+shovel	6.28	6.28	True
+shower	4.72	4.72	True
+shower cap	nan	nan	False
+shower curtain	nan	nan	False
+showerhead	8.05	8.05	True
+shredder	8.78	8.78	True
+shrimp	7.11	13.06	True
+shuffleboard	10.63	10.63	False
+shutter	7.83	7.83	True
+sickle	11.35	11.35	False
+sidecar	9.78	9.78	True
+sifter	11.0	11.0	True
+silicone	13.55	13.55	False
+silverware	5.89	5.89	True
+sim card	nan	nan	False
+sink	4.47	4.47	True
+siren	7.06	7.06	True
+skateboard	6.94	6.94	True
+skeleton	6.68	7.67	False
+skewer	8.94	8.94	True
+ski	6.68	6.68	True
+ski boots	nan	nan	False
+ski lift	4.74	4.74	False
+ski pole	nan	nan	False
+skin	4.48	4.48	False
+skirt	5.67	5.67	True
+skull	6.33	6.33	True
+skunk	5.32	10.57	False
+sled	4.89	10.06	True
+sledgehammer	9.52	10.33	True
+sleeping bag	nan	nan	False
+slicer	8.79	8.79	True
+slide	4.79	4.79	False
+slime	5.53	11.75	True
+sling	8.67	8.67	False
+slingshot	6.53	10.56	True
+slipper	5.26	5.26	False
+slot	6.85	6.85	True
+slot machine	11.81	11.81	False
+sloth	8.37	8.37	False
+slug	6.0	6.0	True
+smoke alarm	nan	nan	False
+smoothie	8.73	8.73	True
+snack	2.78	13.69	True
+snail	5.79	5.79	True
+snake	5.1	8.0	False
+snorkel	9.11	9.11	True
+snow	4.11	5.63	True
+snowball	4.74	4.74	True
+snowboard	11.14	11.14	True
+snowman	3.47	3.47	True
+snowmobile	8.78	8.78	True
+snowplow	8.21	8.21	False
+snowshoe	7.68	7.68	True
+snowsuit	6.39	6.39	True
+soap	3.17	3.17	True
+soccer ball	nan	nan	False
+sock	2.94	2.94	True
+soda	4.42	12.63	False
+soda fountain	nan	nan	False
+sofa bed	8.53	8.53	False
+solar panel	nan	nan	False
+soldering iron	nan	nan	False
+sombrero	9.06	9.06	True
+sonogram	11.47	16.19	True
+sorbet	12.0	12.0	False
+souffle	11.8	11.8	True
+soup	5.37	5.37	True
+soy sauce	13.56	13.56	False
+space shuttle	nan	nan	False
+spacesuit	6.75	6.75	True
+spaghetti	4.33	4.33	True
+spam	13.58	13.58	True
+spareribs	9.94	9.94	True
+spark plug	6.05	9.58	False
+sparkler	6.26	6.26	True
+spatula	7.32	7.32	True
+speaker	6.11	10.0	False
+spear	7.22	11.79	True
+speedboat	6.5	6.5	True
+speedometer	9.35	9.35	False
+spider	3.43	3.43	True
+spider web	4.9	4.9	False
+spinach	4.94	4.94	True
+splinter	4.72	7.11	True
+sponge	5.0	5.0	True
+spool	8.0	9.88	True
+spoon	2.5	2.5	True
+spout	8.0	8.0	True
+spring roll	nan	nan	False
+springboard	11.25	11.25	True
+sprinkler	5.53	5.53	True
+sprouts	nan	nan	False
+spur	9.35	10.85	True
+squash	6.94	6.94	True
+squeegee	9.94	9.94	True
+squid	7.32	7.32	True
+squirrel	4.44	4.44	True
+squirt gun	nan	nan	False
+stained glass	nan	nan	False
+stair	3.84	4.11	True
+stake	8.47	8.47	True
+stalagmite	11.6	11.6	True
+stamp	6.33	8.33	False
+stamp	6.33	6.33	True
+staple	7.18	7.18	True
+staple gun	nan	nan	False
+stapler	5.83	5.83	False
+star fruit	nan	nan	False
+starfish	5.76	5.76	False
+station wagon	5.22	5.22	False
+statue	7.55	7.55	True
+steak	6.63	6.63	True
+steamroller	7.67	7.67	False
+steering wheel	4.4	5.41	True
+stem	7.26	8.22	True
+step stool	7.95	7.95	True
+stereo	5.95	5.95	False
+stethoscope	8.5	8.5	True
+stew	6.95	6.95	True
+stick	3.89	3.89	True
+sticker	4.42	4.42	False
+stiletto	12.24	12.24	False
+stilt	10.25	10.25	True
+stingray	nan	nan	False
+stir fry	nan	nan	False
+stirrup	9.68	9.68	False
+stockings	6.68	6.68	True
+stomach	4.05	8.61	False
+stool	6.21	6.21	True
+stopwatch	8.33	8.33	True
+stove	4.32	7.11	False
+stove	4.32	4.32	True
+straightjacket	10.26	11.11	True
+strainer	9.63	9.63	True
+strap	5.61	5.61	True
+straw	4.22	4.22	True
+straw	4.22	4.22	False
+strawberry	4.21	4.21	True
+streetlight	6.06	6.63	True
+stretcher	9.39	9.39	True
+string cheese	nan	nan	False
+stroller	5.52	14.75	False
+stuffing	5.68	5.68	False
+stump	7.58	7.58	False
+submarine	6.55	9.5	False
+subway	5.5	12.39	False
+sugar cube	nan	nan	False
+suit	6.67	6.67	False
+suitcase	4.28	8.22	False
+sundae	5.11	5.11	False
+sundial	8.68	8.68	True
+sunflower	6.0	6.0	False
+sunglasses	5.56	5.56	False
+sunroof	11.15	11.15	False
+surfboard	nan	nan	False
+sushi	11.19	11.19	True
+suspenders	7.39	7.89	False
+swab	8.94	8.94	True
+swan	6.32	6.32	True
+sweater	5.22	7.0	True
+sweatsuit	nan	nan	False
+sweeper	8.22	8.22	False
+sweet potato	nan	nan	False
+swimming pool	4.2	15.43	False
+swimsuit	5.16	5.61	False
+swing	4.16	4.16	True
+swing set	4.16	4.16	False
+switch	4.78	4.78	False
+swizzle stick	nan	nan	False
+sword	5.45	7.72	True
+swordfish	9.33	9.33	False
+syringe	10.63	10.63	True
+syrup	5.42	5.42	False
+t-shirt	8.96	8.96	False
+tab	9.33	9.33	True
+table	4.39	4.39	True
+tablecloth	6.26	6.26	True
+tablet	6.83	6.83	False
+tack	6.63	6.63	True
+tackle	8.95	9.3	False
+taco	7.72	7.72	True
+tadpole	6.37	11.07	True
+taffy	7.44	7.44	True
+tag	5.0	5.32	True
+taillight	9.33	9.33	False
+tamale	10.56	10.56	True
+tambourine	6.53	6.53	True
+tank	7.17	7.17	False
+tank	7.17	7.17	False
+tape	4.42	4.42	True
+tape measure	4.42	11.44	True
+tape recorder	8.5	8.5	False
+tapestry	10.95	10.95	False
+tarantula	7.76	7.76	True
+target	3.73	7.58	True
+tarp	8.58	10.22	True
+tattoo	7.79	7.79	True
+taxi	6.94	11.16	True
+tea	5.47	5.47	True
+teabag	6.67	6.67	True
+teacup	5.39	5.39	True
+teapot	6.22	6.22	True
+teddy bear	nan	nan	False
+tee	8.21	8.21	False
+teepee	5.65	5.89	False
+telegraph	9.5	11.94	True
+telephone pole	nan	nan	False
+telescope	6.95	9.83	True
+television	3.47	8.06	False
+tennis ball	nan	nan	False
+tent	5.16	5.16	False
+terrarium	12.38	12.38	True
+test tube	nan	nan	False
+thermometer	6.63	6.63	True
+thermos	8.29	8.29	False
+thermostat	8.89	8.89	False
+thimble	8.05	8.05	True
+thorn	4.42	7.35	False
+thread	6.61	7.06	True
+throne	7.28	7.28	True
+thumb	4.42	4.42	False
+thumbtack	7.17	7.17	False
+tiara	6.77	6.77	True
+tick	6.05	6.05	True
+ticktacktoe	nan	nan	False
+tie	4.74	6.63	True
+tiger	4.0	4.0	False
+tile	6.8	6.8	False
+timer	6.28	6.28	True
+tinsel	6.61	6.61	True
+tiramisu	nan	nan	False
+toad	6.11	6.11	True
+toast	4.67	4.67	True
+toaster	6.72	6.72	True
+toaster oven	nan	nan	False
+toe	3.0	3.0	True
+toga	11.12	11.12	True
+toilet	2.28	10.56	False
+toilet paper	5.09	5.09	False
+tomato	4.61	4.61	True
+tomato sauce	nan	nan	False
+tongs	7.78	7.78	False
+tongue	4.47	14.92	False
+tool	5.37	5.37	True
+toolbox	6.67	6.67	False
+tooth	3.61	3.61	True
+toothbrush	4.33	4.33	True
+toothpaste	3.33	3.33	True
+toothpick	6.83	6.83	True
+top hat	5.21	9.53	False
+torch	7.84	7.84	True
+torpedo	8.35	8.35	True
+torso	4.28	9.33	True
+tortellini	12.32	12.32	True
+tortilla	8.28	8.28	True
+tostada	12.81	12.81	True
+totem pole	8.67	8.67	True
+toucan	8.69	8.69	True
+touchpad	nan	nan	False
+towel	3.22	3.22	True
+towel rack	nan	nan	False
+toy	3.0	8.17	True
+tractor	5.5	5.5	True
+traffic light	5.89	5.89	False
+trailer	6.37	6.37	False
+train	4.0	4.0	False
+train car	7.78	7.78	False
+train set	nan	nan	False
+trampoline	6.79	6.79	True
+trap	6.44	6.44	True
+trapdoor	9.16	9.16	True
+trashcan	4.5	10.67	False
+tray	6.05	6.05	True
+treadmill	11.15	11.15	True
+treasure	6.06	6.06	True
+tree	3.57	3.57	True
+tree trunk	8.3	8.3	False
+triangle	4.9	4.9	True
+tricycle	4.05	14.75	False
+trident	11.59	11.59	True
+trigger	8.33	8.33	False
+tripod	9.26	9.26	True
+trolley	8.47	10.53	False
+trombone	7.83	7.83	True
+trophy	5.11	5.55	True
+trough	7.0	8.41	True
+trowel	12.18	12.18	True
+truck	3.79	3.79	False
+trumpet	4.84	11.23	False
+trunk	8.3	8.3	True
+tuba	7.0	15.07	False
+tube top	nan	nan	False
+tugboat	5.17	6.33	False
+tulip	7.15	7.15	True
+tumbleweed	7.95	7.95	True
+tuning fork	nan	nan	False
+tupperware	nan	nan	False
+turban	10.24	10.24	True
+turbine	11.06	11.06	True
+turf	10.82	11.29	False
+turkey	3.95	3.95	False
+turnstile	13.67	13.67	True
+turntable	10.39	10.39	True
+turtle	4.17	4.17	True
+turtleneck	4.17	6.79	False
+tuxedo	8.26	9.78	False
+tweezers	9.89	9.89	False
+twig	6.28	10.31	False
+typewriter	6.74	6.74	True
+ukulele	10.76	10.76	False
+umbrella	5.68	5.68	True
+undershirt	5.56	5.83	False
+underwear	3.94	7.67	True
+unicycle	7.26	7.26	False
+uniform	5.6	5.6	True
+urinal	8.47	8.47	True
+urn	9.89	9.89	True
+vacuum	5.68	6.74	True
+valve	10.78	10.78	True
+van	5.2	5.2	True
+vase	7.89	7.89	True
+vegetable	4.17	6.63	False
+veil	9.69	9.69	False
+velcro	11.48	11.48	True
+vending machine	6.98	6.98	True
+vent	9.32	10.11	False
+vest	5.83	11.88	True
+vial	10.06	15.4	False
+videocassette	7.11	7.11	True
+videogame	nan	nan	False
+viewfinder	6.06	9.83	True
+violin	7.45	8.28	True
+vise	nan	nan	False
+visor	6.42	7.83	False
+volleyball	7.05	7.05	True
+vulture	8.89	8.89	True
+wafer	6.89	6.89	True
+waffle	5.32	5.32	True
+waffle iron	nan	nan	False
+wagon	5.22	5.22	False
+walker	nan	nan	False
+walker	nan	nan	False
+wall	3.79	3.79	True
+wallet	5.89	9.38	False
+wallpaper	6.55	6.55	True
+walnut	6.16	6.16	True
+walrus	5.06	5.83	True
+wand	6.39	6.39	True
+warthog	7.82	7.82	True
+washboard	8.65	8.65	True
+washcloth	4.17	9.44	False
+washing machine	4.8	6.32	False
+wasp	5.58	5.58	True
+watch	4.33	9.94	True
+water bottle	nan	nan	False
+water cooler	nan	nan	False
+water filter	nan	nan	False
+water fountain	nan	nan	False
+water heater	nan	nan	False
+watering can	7.22	7.22	False
+watermelon	4.22	4.22	True
+waterwheel	9.89	9.89	True
+wax	6.0	6.0	True
+wax paper	nan	nan	False
+weasel	7.25	7.25	True
+weather vane	10.58	10.58	False
+webcam	15.57	15.57	True
+wedding cake	nan	nan	False
+wedge	9.42	9.42	True
+weed	6.79	6.79	True
+wetsuit	8.79	8.79	True
+whale	5.47	5.47	True
+wheat	6.53	6.53	False
+wheel	4.4	4.4	True
+wheelbarrow	6.78	6.78	False
+wheelchair	6.89	6.89	True
+whip	7.0	7.0	True
+whipped cream	nan	nan	False
+whisk	8.72	8.72	True
+whistle	5.42	5.42	True
+whiteboard	nan	nan	False
+whoopee cushion	nan	nan	False
+wick	7.83	10.7	True
+wig	5.63	5.63	True
+wind chimes	nan	nan	False
+window	4.74	4.74	True
+windowsill	5.17	5.17	True
+windshield	7.85	10.88	True
+windshield wiper	8.37	8.37	False
+windsock	2.94	14.12	False
+wine	7.9	7.9	False
+wine bottle	nan	nan	False
+wine cooler	nan	nan	False
+wineglass	8.78	8.78	True
+wing	4.79	4.79	True
+wire	4.89	4.89	True
+wire cutters	nan	nan	False
+wok	12.27	12.27	True
+wolf	4.5	4.5	True
+woman	4.95	4.95	False
+wood	4.58	4.58	True
+wooden leg	3.0	6.83	False
+workbench	4.21	6.78	True
+worm	3.89	3.89	True
+wrap	7.0	7.0	True
+wrapping paper	nan	nan	False
+wreath	7.06	15.09	False
+wreck	7.59	7.59	True
+wrench	7.84	12.5	True
+wrist	5.94	5.94	False
+xylophone	7.11	14.0	True
+yacht	10.06	10.06	False
+yak	7.78	7.78	False
+yarn	6.61	6.61	True
+yo-yo	5.62	5.62	True
+yogurt	3.72	3.72	False
+yoke	7.94	7.94	True
+yolk	5.89	5.89	False
+zebra	4.79	4.79	True
+zipper	5.0	5.3	False
+zucchini	6.79	6.79	False
