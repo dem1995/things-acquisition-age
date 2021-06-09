@@ -15,9 +15,9 @@ in the following manner:
 For each object in the THINGS dataset, take the set of synonyms describing it (the WordNet Synset, provided as part of the THINGS dataset).
 Acquire the age of acquisition for each of these synonyms, or none if the synonym is not present in the Hebart et al. AoA dataset, as a set of ages of acquisition for the object.
 Prepare three different final ages of acquisition for the object using this set of ages by taking:
-+ The highest of the ages of acquisition for the object's synonyms (none/infinity if any of the ages are none/infinity - i.e. the edge case {"ferris wheel", "wheel" would receive an acquisition age of infinity due to "ferris wheel" being undefined)
-+ The lowest of the ages of acquisition for the object's synonyms
-+ The highest of the ages of acquisition for the object's synonyms (ignoring any none/infinite ages - i.e. the edge case {"ferris wheel", "wheel" would receive the acquisition age of "wheel" due to "ferris wheel" being undefined)
++ The highest of the ages of acquisition for the object's synonyms (none/infinity if any of the ages are none/infinity - i.e. the edge case {"ferris wheel", "wheel"} would receive an acquisition age of infinity due to "ferris wheel" being undefined)
++ The lowest of the ages of acquisition among the object's synonyms
++ The highest of the ages of acquisition for the object's synonyms (ignoring any none/infinite ages - i.e. the edge case {"ferris wheel", "wheel"} would receive the acquisition age of "wheel" due to "ferris wheel" being undefined)
 
 ## Output
 A tab-separated-value document with four columns: one for a canonical name of each THINGS object, and one column each for each of the three ways of acquiring an object's age (see Methods for specifics).
