@@ -22,6 +22,6 @@ Prepare three different final ages of acquisition for the object using this set 
 ## Output
 A tab-separated-value document with four columns: one for a canonical name of each THINGS object, and one column each for each of the three ways of acquiring an object's age (see Methods for specifics).
 
-# Usage
+## Usage
 Incorporating this into any project should cite and follow the terms of use for the [Kuperman et al.](https://doi.org/10.3758/s13428-012-0210-4) and [Hebart et al.](https://doi.org/10.1371/journal.pone.0223792) papers).
 
