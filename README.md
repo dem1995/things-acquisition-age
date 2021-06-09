@@ -17,7 +17,7 @@ Acquire the age of acquisition for each of these synonyms, or none if the synony
 Prepare three different final ages of acquisition for the object using this set of ages by taking:
 + The highest of the ages of acquisition for the object's synonyms
 + The lowest of the ages of acquisition among the object's synonyms
-+ Whether all Wordnet words for an object have associated ages of acquisition. This should be used to produce conservative estimates - for example the synonym set {"Brass Knuckles", "Knuckles"} only has an age of acquisition for "knuckles" (5.5). The highest /known/ age of acquisition is 5.5, the highest /possible/ age of acquisition is NaN/infinite.
++ Whether all Wordnet words for the object have associated ages of acquisition. This should be used to produce conservative estimates - for example the synonym set {"Brass Knuckles", "Knuckles"} only has an age of acquisition for "knuckles" (5.5). The highest /known/ age of acquisition is 5.5, the highest /possible/ age of acquisition is NaN/infinite.
 
 ## Output
 A tab-separated-value document with four columns: one for a canonical name of each THINGS object, and one column each for each of the three ways of acquiring an object's age (see Methods for specifics).
